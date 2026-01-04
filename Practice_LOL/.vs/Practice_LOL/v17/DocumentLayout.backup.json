@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2\uD559\uB144\\EBS_Unity\\Practice_LOL\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\GitHub\\LOL\\Practice_LOL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DE65E46-3BBD-4287-4601-D0159A5F8B58}|Assembly-CSharp.csproj|d:\\2\uD559\uB144\\ebs_unity\\practice_lol\\assets\\scripts\\garen\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DE65E46-3BBD-4287-4601-D0159A5F8B58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\garen\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DE65E46-3BBD-4287-4601-D0159A5F8B58}|Assembly-CSharp.csproj|D:\\2\uD559\uB144\\EBS_Unity\\Practice_LOL\\assets\\scripts\\garen\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DE65E46-3BBD-4287-4601-D0159A5F8B58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\garen\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DE65E46-3BBD-4287-4601-D0159A5F8B58}|Assembly-CSharp.csproj|D:\\2\uD559\uB144\\EBS_Unity\\Practice_LOL\\assets\\scripts\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DE65E46-3BBD-4287-4601-D0159A5F8B58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DE65E46-3BBD-4287-4601-D0159A5F8B58}|Assembly-CSharp.csproj|d:\\2\uD559\uB144\\ebs_unity\\practice_lol\\assets\\scripts\\garen\\garenspinstate_e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DE65E46-3BBD-4287-4601-D0159A5F8B58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\garen\\garenspinstate_e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DE65E46-3BBD-4287-4601-D0159A5F8B58}|Assembly-CSharp.csproj|c:\\users\\user\\github\\lol\\practice_lol\\assets\\scripts\\playercontrollor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DE65E46-3BBD-4287-4601-D0159A5F8B58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrollor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GarenSpinState_E.cs",
-              "DocumentMoniker": "D:\\2\uD559\uB144\\EBS_Unity\\Practice_LOL\\Assets\\Scripts\\Garen\\GarenSpinState_E.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Garen\\GarenSpinState_E.cs",
-              "ToolTip": "D:\\2\uD559\uB144\\EBS_Unity\\Practice_LOL\\Assets\\Scripts\\Garen\\GarenSpinState_E.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Garen\\GarenSpinState_E.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAjwB4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T01:27:45.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerStateMachine.cs",
-              "DocumentMoniker": "D:\\2\uD559\uB144\\EBS_Unity\\Practice_LOL\\Assets\\Scripts\\Garen\\PlayerStateMachine.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Garen\\PlayerStateMachine.cs",
-              "ToolTip": "D:\\2\uD559\uB144\\EBS_Unity\\Practice_LOL\\Assets\\Scripts\\Garen\\PlayerStateMachine.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Garen\\PlayerStateMachine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Title": "PlayerControllor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\GitHub\\LOL\\Practice_LOL\\Assets\\Scripts\\PlayerControllor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControllor.cs",
+              "ToolTip": "C:\\Users\\user\\GitHub\\LOL\\Practice_LOL\\Assets\\Scripts\\PlayerControllor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControllor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T01:44:52.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IdleState.cs",
-              "DocumentMoniker": "D:\\2\uD559\uB144\\EBS_Unity\\Practice_LOL\\Assets\\Scripts\\Garen\\IdleState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Garen\\IdleState.cs",
-              "ToolTip": "D:\\2\uD559\uB144\\EBS_Unity\\Practice_LOL\\Assets\\Scripts\\Garen\\IdleState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Garen\\IdleState.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA0wBYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T01:20:47.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AI.cs",
-              "DocumentMoniker": "D:\\2\uD559\uB144\\EBS_Unity\\Practice_LOL\\Assets\\Scripts\\AI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AI.cs",
-              "ToolTip": "D:\\2\uD559\uB144\\EBS_Unity\\Practice_LOL\\Assets\\Scripts\\AI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T01:16:46.741Z",
+              "WhenOpened": "2025-12-31T09:26:59.638Z",
               "EditorCaption": ""
             }
           ]
